@@ -10,11 +10,7 @@ body {
   font-family: var(--font);
   color: var(--color-text);
   margin: 0 auto;
-<<<<<<< HEAD
   width: min(100% - 2rem, 68ch);
-=======
-  width: min(100% - var(--body-padding), var(--max-width));
->>>>>>> dd7e7df (create more custom properties)
 }
 
 footer {
